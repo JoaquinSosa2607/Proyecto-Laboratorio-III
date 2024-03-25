@@ -1,5 +1,5 @@
 {
-  "name": "lab-33",
+  "name": "sossen-cripto",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
     "bootstrap": "^5.3.3",
     "bootstrap-vue": "^2.23.1",
     "core-js": "^3.8.3",
+    "pinia": "^2.1.7",
     "vue": "^3.4.21",
     "vue-axios": "^3.5.2",
     "vue-router": "^4.0.3"
